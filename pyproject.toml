@@ -5,7 +5,7 @@ description = "AI-powered Playwright test report analyzer using PydanticAI"
 readme = "README.md"
 license = {text = "MIT"}
 authors = [
-    {name = "Your Name", email = "ramchiyan1093@gmail.com"},
+    {name = "Your Name", email = "ramchiyan1093@yahoo.in"},
 ]
 classifiers = [
     "Development Status :: 4 - Beta",
